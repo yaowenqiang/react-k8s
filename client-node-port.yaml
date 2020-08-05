@@ -9,5 +9,5 @@ spec:
     targetPort: 3000
     nodePort: 31515
   selector:
-    componment: web
+    component: web
 
