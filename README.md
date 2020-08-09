@@ -21,3 +21,15 @@ https://kubernetes.io/docs/concepts/storage/storage-classes/
 
 > kubectl create secret  generic  pgpassword --from-literal  PGPASSWORD=12345asdf
 
+
+
+ingress-nginx
+
+https://github.com/kubernetes/ingress-nginx
+
+kubernetes-ingress
+
+https://github.com/nginxinc/kubernetes-ingress
+
+
+> minikube addons enable ingress
